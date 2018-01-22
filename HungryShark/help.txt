@@ -1,0 +1,6 @@
+SFML libraries need to be included for the game to run. 
+Library included in this rar file is for visual studio 15 32 bit.
+First download suitable graphics libraries required for your device.
+http://www.sfml-dev.org/download/sfml/2.3.2/
+Following is the tutorial to include the libraries.
+http://www.sfml-dev.org/tutorials/2.3/start-vc.php

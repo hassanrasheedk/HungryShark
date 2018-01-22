@@ -1,0 +1,16 @@
+﻿  HungryShark.cpp
+e:\computer science\semester 2\cs212 object oriented programming\assignments\esp\hungryshark\hungryshark\hungryshark2d\hungryshark.cpp(101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\computer science\semester 2\cs212 object oriented programming\assignments\esp\hungryshark\hungryshark\hungryshark2d\hungryshark.cpp(106): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\computer science\semester 2\cs212 object oriented programming\assignments\esp\hungryshark\hungryshark\hungryshark2d\hungryshark.cpp(107): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\computer science\semester 2\cs212 object oriented programming\assignments\esp\hungryshark\hungryshark\hungryshark2d\hungryshark.cpp(115): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\computer science\semester 2\cs212 object oriented programming\assignments\esp\hungryshark\hungryshark\hungryshark2d\hungryshark.cpp(120): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\computer science\semester 2\cs212 object oriented programming\assignments\esp\hungryshark\hungryshark\hungryshark2d\hungryshark.cpp(121): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\computer science\semester 2\cs212 object oriented programming\assignments\esp\hungryshark\hungryshark\hungryshark2d\hungryshark.cpp(129): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\computer science\semester 2\cs212 object oriented programming\assignments\esp\hungryshark\hungryshark\hungryshark2d\hungryshark.cpp(134): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\computer science\semester 2\cs212 object oriented programming\assignments\esp\hungryshark\hungryshark\hungryshark2d\hungryshark.cpp(135): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\computer science\semester 2\cs212 object oriented programming\assignments\esp\hungryshark\hungryshark\hungryshark2d\hungryshark.cpp(139): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\computer science\semester 2\cs212 object oriented programming\assignments\esp\hungryshark\hungryshark\hungryshark2d\hungryshark.cpp(337): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+e:\computer science\semester 2\cs212 object oriented programming\assignments\esp\hungryshark\hungryshark\hungryshark2d\hungryshark.cpp(338): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+e:\computer science\semester 2\cs212 object oriented programming\assignments\esp\hungryshark\hungryshark\hungryshark2d\hungryshark.cpp(351): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+e:\computer science\semester 2\cs212 object oriented programming\assignments\esp\hungryshark\hungryshark\hungryshark2d\hungryshark.cpp(352): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  HungryShark2D.vcxproj -> E:\Computer Science\Semester 2\CS212 Object Oriented Programming\Assignments\ESP\HungryShark\HungryShark\Debug\HungryShark2D.exe
